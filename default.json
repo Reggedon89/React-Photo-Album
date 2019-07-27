@@ -1,0 +1,127 @@
+{
+  "albums": [
+    {
+      "id":1,
+      "name":"Australia",
+      "coverPhoto":"https://images.pexels.com/photos/783682/pexels-photo-783682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":2,
+      "name":"China",
+      "coverPhoto":"https://images.pexels.com/photos/1586205/pexels-photo-1586205.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":3,
+      "name":"England",
+      "coverPhoto":"https://images.pexels.com/photos/1128558/pexels-photo-1128558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":4,
+      "name":"Japan",
+      "coverPhoto":"https://images.pexels.com/photos/46253/mt-fuji-sea-of-clouds-sunrise-46253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":5,
+      "name":"Korea",
+      "coverPhoto":"https://images.pexels.com/photos/290604/pexels-photo-290604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id":6,
+      "name":"Thailand",
+      "coverPhoto":"https://images.pexels.com/photos/2070485/pexels-photo-2070485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+    
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "name": "Sydney",
+      "photo": "https://images.pexels.com/photos/995764/pexels-photo-995764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 1,
+      "name": "Melbourne",
+      "photo": "https://images.pexels.com/photos/2097616/pexels-photo-2097616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 1,
+      "name": "Bondi Beach",
+      "photo": "https://images.pexels.com/photos/1590249/pexels-photo-1590249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 2,
+      "name": "Shanghai",
+      "photo": "https://images.pexels.com/photos/745243/pexels-photo-745243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 2,
+      "name": "The Great Wall",
+      "photo": "https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 2,
+      "name": "Beijing",
+      "photo": "https://images.pexels.com/photos/1486577/pexels-photo-1486577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 3,
+      "name": "London",
+      "photo": "https://images.pexels.com/photos/262413/pexels-photo-262413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 3,
+      "name": "Stonehenge",
+      "photo": "https://images.pexels.com/photos/1448136/pexels-photo-1448136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 3,
+      "name": "Hyde Park",
+      "photo": "https://cdn.civitatis.com/reino-unido/londres/guia/hyde-park.jpg"
+    },
+    {
+      "albumId": 4,
+      "name": "Tokyo",
+      "photo": "https://images.pexels.com/photos/2067057/pexels-photo-2067057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 4,
+      "name": "Osaka",
+      "photo": "https://images.pexels.com/photos/962925/pexels-photo-962925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 4,
+      "name": "Okinawa",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Fukushuen_Naha_Okinawa01s3.jpg"
+    },
+    {
+      "albumId": 5,
+      "name": "Seoul",
+      "photo": "https://images.pexels.com/photos/2376712/pexels-photo-2376712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 5,
+      "name": "Gyeongbokgung Palace",
+      "photo": "https://images.pexels.com/photos/1663383/pexels-photo-1663383.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 5,
+      "name": "Changdeokgung",
+      "photo": "https://images.pexels.com/photos/38440/night-view-goguryeo-jung-achasan-republic-of-korea-38440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 6,
+      "name": "Bangkok",
+      "photo": "https://images.pexels.com/photos/2607915/pexels-photo-2607915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 6,
+      "name": "Wat Rong Khun",
+      "photo": "https://images.pexels.com/photos/733064/pexels-photo-733064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "albumId": 6,
+      "name": "The Grand Palace",
+      "photo": "http://static.asiawebdirect.com/m/bangkok/portals/bangkok-com/homepage/attraction-palace/grand-palace/pagePropertiesImage/bangkok-grand-palace.jpg.jpg"
+    }
+  ]
+}

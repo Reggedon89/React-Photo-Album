@@ -1,0 +1,181 @@
+html {box-sizing:border-box;}
+
+*, *::before, *::after {
+  box-sizing:inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: purple;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+/* Albums Main Page */
+
+#albumHeader {
+  background: red;
+  height: 100px;
+  margin: 0;
+  padding-top: 45px;
+  width: 100%;
+}
+
+#albumHeader #albumArrow {
+  left: 50px;
+  position: relative;
+  top: 30px;
+}
+
+#albumHeader #albumArrow i {
+  font-size: 50px;
+}
+
+#albumHeader h1 {
+  font-size: 60px;
+  margin: -35px 0 0 300px;
+
+}
+
+.rows {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.rows .album {
+  background: yellow;
+  font-size: 20px;
+  height: 275px;
+  margin: 20px 60px;
+  padding-top: 0px;
+  text-align: center;
+  width: 225px;
+}
+
+.rows .album img {
+  height: 225px;
+  width: 225px;
+}
+
+.rows .album p {
+  padding-top: 8px;
+}
+
+/* Selected Album */
+#selectedAlbumHeader {
+  background: red;
+  height: 100px;
+  margin: 0;
+  width: 100%;
+}
+
+#selectedAlbumHeader #albumArrow {
+
+  left: 50px;
+  position: relative;
+  top: 30px;
+}
+
+#selectedAlbumHeader #albumArrow i {
+  font-size: 50px;
+}
+
+#selectedAlbumHeader h1 {
+  font-size: 60px;
+  margin: -35px 0 0 500px;
+
+}
+
+main {
+  display: flex;
+
+}
+aside {
+  background: pink;
+  height: 100%;
+  padding: 0;
+  width: 200px;
+}
+
+aside ul {
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+}
+
+aside ul li {
+  font-size: 30px;
+  list-style: none;
+  margin: 30px 40px;
+}
+
+.rows .picture {
+  background: yellow;
+  font-size: 20px;
+  height: 275px;
+  margin: 20px 60px;
+  padding-top: 12px;
+  text-align: center;
+  width: 200px;
+}
+
+.rows .picture img {
+  height: 225px;
+  width: 175px;
+}
+
+/* Photo */
+
+#picHeader {
+  background: teal;
+  border-radius: 20px;
+  margin: 10px auto;
+  height: 100px;
+  width: 700px;
+}
+
+#picHeader #selectedAlbumArrow {
+  right: 240px;
+  position: relative;
+  top: 20px;
+}
+
+#picHeader #selectedAlbumArrow i {
+  font-size: 50px;
+}
+
+#picHeader h1{
+  font-size: 60px;
+  margin-top:-40px;
+  text-align: center;
+}
+
+.singlePicture {
+  background: green;
+  height: 500px;
+  margin: 50px auto;
+  width: 900px;
+}
+
+.changePhoto.left i {
+  font-size: 200px;
+  position: relative;
+  right: 200px;
+  bottom: 350px;
+}
+
+.changePhoto.right i {
+  font-size: 200px;
+  position: relative;
+  left: 700px;
+  bottom: 350px;
+}
